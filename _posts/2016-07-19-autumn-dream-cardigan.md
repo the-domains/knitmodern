@@ -1,11 +1,15 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-07-19T19:40:43.661Z'
-dateModified: null
+title: autumn dream cardigan
+datePublished: '2016-07-19T19:45:36.724Z'
+dateModified: '2016-07-19T19:45:10.927Z'
 author: []
+description: >-
+  This wide collar cardigan which drapes open at the hips was handknit in
+  Twilley’s Freedom Wool. There will also be a version in Knitpick’s Tuff Puff.
+  The pattern for handknitting will be available in September 2016.
+starred: false
 isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/42434be8-6809-4a84-ab94-62af94b21b73.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1f833a-0f8c-44c2-b9ba-ecff7270e416.jpg
 sourcePath: _posts/2016-07-19-autumn-dream-cardigan.md
 inFeed: true
 hasPage: false
@@ -14,8 +18,6 @@ _type: MediaObject
 
 ---
 # autumn dream cardigan
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42434be8-6809-4a84-ab94-62af94b21b73.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1f833a-0f8c-44c2-b9ba-ecff7270e416.jpg)
 
-Pattern for a wide collar cardigan which drapes open at the hip. The cardigan was handknit in Twilley's Freedom Wool. Also working on a design using Knitpick's Tuff Puff. The pattern will be available September 2016 at knitmodern.com 
-
-This handknitting pattern will be available in September 2016
+This wide collar cardigan which drapes open at the hips was handknit in Twilley's Freedom Wool. There will also be a version in Knitpick's Tuff Puff. The pattern for handknitting will be available in September 2016\.
