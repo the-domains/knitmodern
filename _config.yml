@@ -1,14 +1,26 @@
-layout_spectrum: 0.2545969
-typography_spectrum: 0.3812525
+layout_spectrum: 0.7493734
+name: knitmodern
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.7580101
   brandStrength: 0.1806605
+  lightness: 0.7580101
   saturation: 0.651792
-  rhythmicContrast: 0.525887
+  rhythmicContrast: 0.9160401
   brandColors:
     - '#FFFFFF'
     - '#020200'
     - '#8F5A4C'
     - '#A2B1CE'
     - '#7D8FA5'
-name: knitmodern
+typography_spectrum: 0.3812525
