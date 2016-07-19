@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[knitmodern]]></title>
         <description><![CDATA[knitmodern]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/knitmodern/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 19:40:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 19:45:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/knitmodern/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[autumn dream cardigan]]></title>
+            <description><![CDATA[<article><h1>autumn dream cardigan</h1><p>This wide collar cardigan which drapes open at the hips was handknit in Twilley’s Freedom Wool. There will also be a version in Knitpick’s Tuff Puff. The pattern for handknitting will be available in September 2016.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1f833a-0f8c-44c2-b9ba-ecff7270e416.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1f833a-0f8c-44c2-b9ba-ecff7270e416.jpg</link>
+            <guid isPermaLink="false">5a6872bf-d003-49d4-b2a6-7cec808af32e</guid>
+            <pubDate>Tue, 19 Jul 2016 19:45:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[autumn dream cardigan]]></title>
             <description><![CDATA[<article><h1>autumn dream cardigan</h1><p>Pattern for a wide collar cardigan which drapes open at the hip. The cardigan was handknit in Twilley’s Freedom Wool. Also working on a design using Knitpick’s Tuff Puff. The pattern will be available September 2016 at knitmodern.com </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42434be8-6809-4a84-ab94-62af94b21b73.jpg"></article>]]></description>
