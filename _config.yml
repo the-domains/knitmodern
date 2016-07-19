@@ -1,0 +1,14 @@
+layout_spectrum: 0.2545969
+typography_spectrum: 0.3812525
+color:
+  lightness: 0.7580101
+  brandStrength: 0.1806605
+  saturation: 0.651792
+  rhythmicContrast: 0.525887
+  brandColors:
+    - '#FFFFFF'
+    - '#020200'
+    - '#8F5A4C'
+    - '#A2B1CE'
+    - '#7D8FA5'
+name: knitmodern
