@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[knitmodern]]></title>
+        <description><![CDATA[knitmodern]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jul 2016 19:40:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[autumn dream cardigan]]></title>
+            <description><![CDATA[<article><h1>autumn dream cardigan</h1><p>Pattern for a wide collar cardigan which drapes open at the hip. The cardigan was handknit in Twilley’s Freedom Wool. Also working on a design using Knitpick’s Tuff Puff. The pattern will be available September 2016 at knitmodern.com </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42434be8-6809-4a84-ab94-62af94b21b73.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/42434be8-6809-4a84-ab94-62af94b21b73.jpg</link>
+            <guid isPermaLink="false">1150702c-3d3c-477c-bb11-753da78a254c</guid>
+            <pubDate>Tue, 19 Jul 2016 19:40:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
